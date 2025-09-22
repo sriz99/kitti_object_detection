@@ -1,0 +1,9 @@
+ultralytics
+urllib3
+certifi
+idna
+certifi
+matplotlib
+pytz
+opencv-python
+streamlit

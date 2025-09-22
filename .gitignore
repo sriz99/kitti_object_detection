@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Other folders
+data/
+.vscode/
+runs/
+labels_yolo_split.py
+kitti_test_data/
+
+#checkpoint files
+last.pt
+best.pt
